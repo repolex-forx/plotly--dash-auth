@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/plotly/dash-auth/commit/a78a757c40c911dc1b558224a953d98d18a4fffd",
       "git:hexsha": "a78a757c40c911dc1b558224a953d98d18a4fffd",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T01:27:52.903110+00:00"
     },
     {
       "@id": "https://repolex.ai/r/plotly/dash-auth/commit/b7567697b9e3460501156b2552efa1afad89d7a6",
